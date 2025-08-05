@@ -14,6 +14,8 @@ Este repositorio contiene el diseño técnico, conceptual y legal-defensivo de c
 | 2 | ATR-METFI | Antena Toroidal Resonante | Acoplamiento resonante para predicción sísmica |
 | 3 | ERI-METFI | Estación 5G Interferométrica | Rediseño 5G como interferómetro resonante distribuido |
 | 4 | CVDT-METFI | Cámara de Vacío Dieléctrico Toroidal | Simulación experimental de coherencia electromagnética interna |
+| 5 | SIPISOB-METFI | Sistema de Interferencia Predictiva Solar-Baricéntrica | Modelo de predicción basado en nodos críticos de acoplamiento solar-baricéntrico y su impacto electromagnético y geodinámico |
+
 
 ---
 
