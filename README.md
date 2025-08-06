@@ -15,6 +15,7 @@ Este repositorio contiene el diseño técnico, conceptual y legal-defensivo de c
 | 3 | ERI-METFI | Estación 5G Interferométrica | Rediseño 5G como interferómetro resonante distribuido |
 | 4 | CVDT-METFI | Cámara de Vacío Dieléctrico Toroidal | Simulación experimental de coherencia electromagnética interna |
 | 5 | SIPISOB-METFI | Sistema de Interferencia Predictiva Solar-Baricéntrica | Modelo de predicción basado en nodos críticos de acoplamiento solar-baricéntrico y su impacto electromagnético y geodinámico |
+6 | ERI-METFI | Red Distribuida de Sensores para Entorno de Resonancia Inestable | Infraestructura sensorial multinodal para la detección de patrones electromagnéticos, térmicos y sónicos asociados a eventos ECDO en contexto METFI |
 
 
 ---
